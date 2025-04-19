@@ -1,0 +1,13 @@
+*{
+    text-decoration: none;
+}
+
+body{
+    background-color: red;
+    font-family: Arial, sans-serif;
+}
+h1{
+    color: white;
+    margin-top: 20px;   
+font-size: 48px;
+}

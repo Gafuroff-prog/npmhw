@@ -1,0 +1,37 @@
+*{
+    text-decoration: none;
+}
+body{
+    background-color: #181123;
+}
+h1{
+    color: rgba(14, 210, 247, 1);
+    font-size: 70px;
+    position: relative;
+    margin-left: 50px;
+    width: 800px;
+}
+.hr{
+    width: 60px;
+    color: #B1FEFA;
+    border: 3px solid;
+    border-radius: 2px;
+    margin-right: 1220px;
+}
+.subtext-element{
+    color: white;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 50px;
+}
+.strelka{
+    position: absolute;
+    top: 70%;
+    left: 90%;
+    width: 100px;
+    height: 100px;
+    color: blue;
+    font-size: 48px;
+    text-decoration: none;
+    ;
+  }
